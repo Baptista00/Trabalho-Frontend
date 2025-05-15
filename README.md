@@ -1,12 +1,11 @@
 # Trabalho-Frontend
 # Sistema para Adoção Animal - ACAPRA
 
-Projeto frontend desenvolvido para o cruso Sistemas De Informação na Unifebe.  
-.
+Desenvolvimento Frontend
 
 ---
 
-## Funcionalidades
+## Características
 
 - Página inicial com apresentação do projeto.  
 - Catálogo de animais disponíveis para adoção.  
@@ -15,11 +14,11 @@ Projeto frontend desenvolvido para o cruso Sistemas De Informação na Unifebe.
 
 ---
 
-##  Estrutura do Projeto
+##  Estrutura 
 
-─ index.html # Página inicial
-─ catalogo.html # Catálogo de animais
-─ adocao.html # Formulário de adoção
-─ login.html # Login de gestores e voluntários
+─ index.html -- Página inicial
+─ catalogo.html -- Catálogo de animais
+─ adocao.html -- Formulário de adoção
+─ login.html -- Login de gestores e voluntários
 
 
