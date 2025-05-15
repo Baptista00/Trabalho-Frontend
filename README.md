@@ -1,5 +1,5 @@
 # Trabalho-Frontend
-# Sistema para Adoção Animal - ACAPRA
+# Sistema - ACAPRA
 
 Desenvolvimento Frontend
 
